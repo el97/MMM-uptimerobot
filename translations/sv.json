@@ -1,0 +1,9 @@
+{
+    "ONLINE": "Online",
+    "DOWN": "Offline",
+    "PAUSED": "Pausad",
+    "NOTCHECKEDYET": "Har inte blivit inspekterad ännu",
+    "SEEMSDOWN": "Verkar vara offline",
+    "MISSING_API_KEY": "Saknar en API_Key i config.js!",
+    "LOADING": "Laddar..."
+}
