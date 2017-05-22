@@ -6,7 +6,7 @@ MagicMirror² to get uptime data from http://uptimerobot.com API.
 ![](.github/text.png) ![](.github/text_color.png) ![](.github/icons.png) ![](.github/icons_color.png)
 
 
-## Instalation
+## Installation
 1. Clone this repository in your MagicMirror installation under modules.
 2. Rename plugin foler from 'MMM-uptimerobot' to 'uptimerobot'
 3. Add configuration to config.js
