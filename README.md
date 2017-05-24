@@ -6,7 +6,7 @@ MagicMirror² to get uptime data from http://uptimerobot.com API.
 ![](.github/text.png) ![](.github/text_color.png) ![](.github/icons.png) ![](.github/icons_color.png)
 
 
-## Instalation
+## Installation
 1. Clone this repository in your MagicMirror installation under modules.
 2. Rename plugin foler from 'MMM-uptimerobot' to 'uptimerobot'
 3. Add configuration to config.js
@@ -34,6 +34,7 @@ No special requirements or dependencies.
 
 | Option           | Description
 |----------------- |-----------
+| `position`       | *Requierd* Set the position of the module
 | `api_key`        | *Required* API Key from https://uptimerobot.com. API Key is available under 'My Settings' in 'API Setting' section (click on Show/hide it and if not available generate new one).
 | `useIcons`       | *Optional* Flag to use icons (true) or text (false) values for status of monitor. <br><br>**Type:** `boolean` <br>Default: false - text values.
 | `useColors`      | *Optional* Flag to use colors (true) for status of monitor<br><br>**Type:** `boolean` <br>Default: false - without colors.
